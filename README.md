@@ -44,11 +44,11 @@
 ## <picture><img src = "https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif?raw=true" width = 50px></picture> Languages (In Human)
 
 <br>
-
-- Japanese
+ 
+- Bahasa Indonesia (Native Language)
 - English
-- Bahasa Indonesia
 - Bahasa Melayu
+- Japanese (A lil bit)
 - Mandarin (A lil bit)
 - Hokien (A lil bit)
 - Teochew (A lil bit)
